@@ -7,4 +7,4 @@ def decimalToBinary(n):
     return st  
 
 n=int(input('Enter n: ')) 
-print(decimalToBinary(n))
+print("Binary value: ",decimalToBinary(n))

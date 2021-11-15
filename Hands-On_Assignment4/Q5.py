@@ -1,6 +1,6 @@
 import math
 def power(x,n):
-    return math.pow(x,n) 
+    return x**n 
 
 def fact(n):
     f=1

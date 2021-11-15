@@ -7,4 +7,5 @@ def factor(n):
         else:
             div=div+1
 
-factor(120)            
+n=int(input("Enter n: "))
+factor(n)           
