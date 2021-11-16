@@ -1,6 +1,4 @@
 import random
-
-
 choice = int(input("Enter choice \n 0. Rock\n 1. paper\n 2. scissor\n"))
 if choice == 0:
     choice_name = 'Rock'
@@ -8,7 +6,6 @@ elif choice == 1:
     choice_name = 'paper'
 else:
     choice_name = 'scissor'
-
 
 choice_comp=random.randint(0,2)
 if choice_comp == 0:

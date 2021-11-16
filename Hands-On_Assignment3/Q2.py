@@ -1,4 +1,5 @@
 ch=input("Please enter a character: ")
+
 if(ch>='A' and ch<='Z'):
     print(ch," is an uppercase letter")
 elif (ch>='a' and ch<='z'):

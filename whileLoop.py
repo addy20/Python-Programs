@@ -1,6 +1,6 @@
 def usingForLoop(n):
     s=0
-    for i in range(n):
+    for i in range():
         r=n%10
         n=n//10
         s=s+r

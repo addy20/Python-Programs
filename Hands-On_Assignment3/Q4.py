@@ -5,8 +5,6 @@ d = float(input("Enter d: "))
 e = float(input("Enter e: "))
 f = float(input("Enter f: "))
 
-
-
 if (a*d - b*c == 0):
     print("The equation has no solution")
 else:

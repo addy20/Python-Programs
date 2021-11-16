@@ -1,6 +1,5 @@
 def invertedTriangle(nRows):
     nSpaces=0
-    type(nSpaces)
     nStars=2*nRows-1
     for i in range(1,nRows+1):
         print(' '*nSpaces+'*'*nStars)
@@ -9,7 +8,6 @@ def invertedTriangle(nRows):
 
 def rightTriangle(nRows):
     for i in range(1,nRows+1):
-        pass
         print('*'*i)
 
 
