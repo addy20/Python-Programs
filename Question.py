@@ -12,18 +12,3 @@
 # print(math.radians(30))
 # print(math.degrees(math.pi/2))
 
-a=5
-b=5
-c=5.4
-d=5.4
-print(id(a))
-
-print(id(b))
-print(id(c))
-print(id(d))
-del a
-print(a)
-print(b)
-del d
-print(c)
-print(d)
